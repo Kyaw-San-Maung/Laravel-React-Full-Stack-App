@@ -10,7 +10,6 @@ const GuestLayout = () => {
 
     return (
         <div>
-            <p>This is Guest Layout page.</p>
             <Outlet />
         </div>
     );
